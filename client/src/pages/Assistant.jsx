@@ -7,7 +7,7 @@ function Assistant() {
   const chatEndRef = useRef(null);
 
   // Replace with your actual key
-  const API_KEY = "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";
+  const API_KEY = "add api key ";
 
   // Auto-scroll to bottom of chat
   useEffect(() => {
